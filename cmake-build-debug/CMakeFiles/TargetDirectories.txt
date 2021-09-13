@@ -1,0 +1,3 @@
+C:/Users/trueb/CLionProjects/stm32_usb_gamepad/cmake-build-debug/CMakeFiles/stm32_usb_gamepad.elf.dir
+C:/Users/trueb/CLionProjects/stm32_usb_gamepad/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/trueb/CLionProjects/stm32_usb_gamepad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
